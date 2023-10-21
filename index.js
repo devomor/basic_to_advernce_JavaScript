@@ -1,0 +1,1 @@
+alert("md omor faruk");

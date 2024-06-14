@@ -222,3 +222,21 @@ let personString = JSON.stringify(person);
 
 // Display the string representation using document.write()
 document.write(personString);
+
+
+//toFixed keyword using 
+var num = 12.335534;
+document.write(num.toFixed(2));
+
+//Number conver to String
+var num1 = 12.33534;
+document.write(toString(num1));
+
+//String conver to number
+var num2 = "2.335534";
+document.write(parseInt(num2));
+
+//number of lenght function 
+var num3 = 12.33534;
+console.log(num3.toPrecision(2));
+

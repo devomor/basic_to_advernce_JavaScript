@@ -13,3 +13,7 @@
 //String data type
 var name = "omar faruk";
 document.write(name);
+
+var Number = 190;
+document.write(Number)
+
